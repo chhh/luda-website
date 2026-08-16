@@ -19,7 +19,7 @@
       <a href="{{ '/' | relative_url }}" {% if page.url == "/" %}class="active"{% endif %}>Home</a>
       <a href="{{ '/publications/' | relative_url }}" {% if page.url contains "publications" %}class="active"{% endif %}>Publications</a>
       <a href="{{ '/teaching/' | relative_url }}" {% if page.url contains "teaching" %}class="active"{% endif %}>Teaching</a>
-      <a href="{{ '/cv/' | relative_url }}" {% if page.url contains "cv" %}class="active"{% endif %}>CV</a>
+      <a href="{{ '/assets/pdfs/cv.pdf' | relative_url }}" target="_blank" rel="noopener">CV</a>
     </nav>
   </header>
 

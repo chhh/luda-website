@@ -1,117 +1,240 @@
 # Publications — edit this file to add/remove papers.
 #
 # Fields:
-#   title     (required) paper title
+#   title     (required)
 #   authors   (required) full author list, "Lyudmila Korobenko" gets bolded
 #   year      (required)
-#   arxiv     (optional) arXiv id, e.g. "2501.11766" -> links to arxiv.org/abs/...
-#   journal   (optional) e.g. "Journal of Functional Analysis"
-#   pdf       (optional) local path, e.g. "/assets/pdfs/paper.pdf" (drop file there)
+#   group     (optional) section heading; papers grouped in file order
+#   arxiv     (optional) arXiv id, e.g. "2501.11766"
+#   journal   (optional) e.g. "J. Funct. Anal. 284 (2023), 109827"
+#   doi       (optional) e.g. "10.1080/14697688.2019.1683220"
+#   pdf       (optional) local file in /assets/pdfs/, e.g. "/assets/pdfs/sos-1.pdf"
 #   abstract  (optional) shown behind a toggle
 #
-# Sorted newest first.
+# Titles with a colon must be double-quoted.
+
+- title: Carnot-Carathéodory metrics associated to degenerate elliptic operators in three dimensions
+  authors: Florian Meister, Olive Ross, Lyudmila Korobenko
+  year: 2025
+  group: Functional analysis
+  arxiv: "2412.05810"
+
+- title: Weighted 1-dimensional Orlicz-Poincaré inequalities
+  authors: Lyudmila Korobenko, Olly Milshtein, Lucas Yong
+  year: 2024
+  group: Functional analysis
+  arxiv: "2304.04373"
+  journal: J. Math. Anal. Appl. 530 (2024), No. 1, 127649
+
+- title: Orlicz Sobolev inequalities and the doubling condition
+  authors: Lyudmila Korobenko
+  year: 2021
+  group: Functional analysis
+  arxiv: "1906.04088"
+  journal: Annales Fennici Mathematici 46 (1) (2021), 153–161
+  pdf: /assets/pdfs/orlicz-doubling.pdf
+
+- title: From Sobolev inequality to doubling
+  authors: Lyudmila Korobenko, Diego Maldonado, Cristian Rios
+  year: 2015
+  group: Functional analysis
+  arxiv: "1312.0277"
+  journal: Proceedings of the AMS 143 (9) (2015), 4017–4028
+  pdf: /assets/pdfs/sobolev-to-doubling.pdf
 
 - title: On the Necessity of Logarithmic Estimates for Hypoellipticity
   authors: Timur Akhunov, Lyudmila Korobenko
-  year: 2025
+  year: 2026
+  group: Degenerate elliptic PDEs
   arxiv: "2605.15070"
 
 - title: Degenerate elliptic equations with Φ-admissible weights
   authors: Lyudmila Korobenko
   year: 2025
+  group: Degenerate elliptic PDEs
   arxiv: "2501.11766"
 
-- title: Carnot-Carathéodory metrics associated to degenerate elliptic operators in three dimensions
-  authors: Lyudmila Korobenko, Florian Meister, Olive Ross
-  year: 2024
-  arxiv: "2412.05810"
-
-- title: Weighted 1-dimensional Orlicz-Poincaré inequalities
-  authors: Lyudmila Korobenko, Olly Milshstein, Lucas Yong
-  year: 2023
-  arxiv: "2304.04373"
-
-- title: The Moser method and boundedness of solutions to infinitely degenerate elliptic equations
+- title: "Regularity for infinitely degenerate inhomogeneous elliptic equations, part I: the Moser method"
   authors: Lyudmila Korobenko, Cristian Rios, Eric Sawyer, Ruipeng Shen
-  year: 2023
+  year: 2025
+  group: Degenerate elliptic PDEs
   arxiv: "2303.02873"
+  journal: Nonlinear Analysis 261 (2025), 113888
 
 - title: Necessity of a logarithmic estimate for hypoellipticity of some degenerately elliptic operators
   authors: Timur Akhunov, Lyudmila Korobenko
-  year: 2022
+  year: 2024
+  group: Degenerate elliptic PDEs
   arxiv: "2212.01727"
-
-- title: "Sums of squares I: scalar functions"
-  authors: Lyudmila Korobenko, Eric T. Sawyer
-  year: 2021
-  arxiv: "2107.12840"
-
-- title: "Sums of squares II: matrix functions"
-  authors: Lyudmila Korobenko, Eric T. Sawyer
-  year: 2021
-  arxiv: "2107.12505"
+  journal: J. Math. Anal. Appl. 531 (2024), No. 1, 127744
 
 - title: "Sums of squares III: hypoellipticity in the infinitely degenerate regime"
   authors: Lyudmila Korobenko, Eric T. Sawyer
-  year: 2021
+  year: 2023
+  group: Degenerate elliptic PDEs
   arxiv: "2107.12451"
+  journal: submitted
+  pdf: /assets/pdfs/sos-3.pdf
 
-- title: Orlicz-Sobolev inequalities and the Dirichlet problem for infinitely degenerate elliptic operators
+- title: "Sums of squares II: matrix functions"
+  authors: Lyudmila Korobenko, Eric T. Sawyer
+  year: 2023
+  group: Degenerate elliptic PDEs
+  arxiv: "2107.12505"
+  journal: Linear Algebra Appl. 664 (2023), 264–313
+  pdf: /assets/pdfs/sos-2.pdf
+
+- title: "Sums of squares I: scalar functions"
+  authors: Lyudmila Korobenko, Eric T. Sawyer
+  year: 2023
+  group: Degenerate elliptic PDEs
+  arxiv: "2107.12840"
+  journal: J. Funct. Anal. 284 (2023), 109827
+  pdf: /assets/pdfs/sos-1.pdf
+
+- title: Orlicz Sobolev inequalities and the Dirichlet problem for infinitely degenerate elliptic operators
   authors: Usman Hafeez, Théo Lavier, Lucas Williams, Lyudmila Korobenko
-  year: 2020
+  year: 2021
+  group: Degenerate elliptic PDEs
   arxiv: "2008.08263"
+  journal: Electron. J. Differential Equations, Vol. 2021 (2021), No. 82, 1–19
+  pdf: /assets/pdfs/orlicz-dirichlet.pdf
 
 - title: Continuity of infinitely degenerate weak solutions via the trace method
   authors: Lyudmila Korobenko, Eric T. Sawyer
-  year: 2020
+  year: 2021
+  group: Degenerate elliptic PDEs
   arxiv: "2007.04878"
+  journal: J. Funct. Anal. 281 (9) (2021), 109–170
+  pdf: /assets/pdfs/trace-method.pdf
 
-- title: Nonhedgeable risk and Credit Risk Pricing
-  authors: Juan Dong, Lyudmila Korobenko, Deniz Sezer
-  year: 2019
-  arxiv: "1910.08641"
-
-- title: Orlicz Sobolev Inequalities and the Doubling Condition
-  authors: Lyudmila Korobenko
-  year: 2019
-  arxiv: "1906.04088"
-
-- title: Hypoellipticity without loss of derivatives for Fedii's type operators
-  authors: Timur Akhunov, Lyudmila Korobenko, Cristian Rios
-  year: 2017
-  arxiv: "1711.00161"
-
-- title: Continuity of weak solutions to rough infinitely degenerate equations
+- title: Local boundedness, maximum principles, and continuity of solutions to infinitely degenerate elliptic equations with rough coefficients
   authors: Lyudmila Korobenko, Cristian Rios, Eric Sawyer, Ruipeng Shen
-  year: 2017
-  arxiv: "1703.00774"
-
-- title: Sharp local boundedness and maximum principle in the infinitely degenerate regime via DeGiorgi iteration
-  authors: Lyudmila Korobenko, Cristian Rios, Eric Sawyer, Ruipeng Shen
-  year: 2016
+  year: 2021
+  group: Degenerate elliptic PDEs
   arxiv: "1608.01630"
+  journal: Memoirs of the AMS 269 (2021), No. 1311
+  pdf: /assets/pdfs/memoirs-rough.pdf
 
 - title: Local boundedness, maximum principles, and continuity of solutions to infinitely degenerate elliptic equations
   authors: Lyudmila Korobenko, Cristian Rios, Eric Sawyer, Ruipeng Shen
   year: 2015
+  group: Degenerate elliptic PDEs
   arxiv: "1506.09203"
+  journal: preprint
+  pdf: /assets/pdfs/local-boundedness.pdf
 
-- title: Regularity of Solutions to Degenerate Non-Doubling Second Order Equations
+- title: Hypoellipticity for Fedii's type operators under Morimoto's logarithmic condition
+  authors: Timur Akhunov, Lyudmila Korobenko, Cristian Rios
+  year: 2019
+  group: Degenerate elliptic PDEs
+  arxiv: "1711.00161"
+  journal: J. Pseudo-Differ. Oper. Appl. 10 (3) (2019), 649–688
+
+- title: Hypoellipticity of certain infinitely degenerate second order operators
   authors: Lyudmila Korobenko, Cristian Rios
   year: 2014
-  arxiv: "1401.8047"
-
-- title: From Sobolev Inequality to Doubling
-  authors: Lyudmila Korobenko, Diego Maldonado, Cristian Rios
-  year: 2013
-  arxiv: "1312.0277"
+  group: Degenerate elliptic PDEs
+  arxiv: "1301.2339"
+  journal: J. Math. Anal. Appl. 409 (1) (2014), 41–55
+  pdf: /assets/pdfs/hypoellipticity-2014.pdf
 
 - title: Regularity of solutions to quasilinear infinitely degenerate second order equations
   authors: Lyudmila Korobenko, Cristian Rios
-  year: 2013
+  year: 2014
+  group: Degenerate elliptic PDEs
   arxiv: "1304.5234"
+  pdf: /assets/pdfs/quasilinear.pdf
 
-- title: Hypoellipticity of a Class of Infinitely Degenerate Second Order Operators and Systems
+- title: Regularity of solutions to degenerate non-doubling second order equations
   authors: Lyudmila Korobenko, Cristian Rios
+  year: 2014
+  group: Degenerate elliptic PDEs
+  arxiv: "1401.8047"
+  pdf: /assets/pdfs/non-doubling.pdf
+
+- title: A variation of Merton's corporate bond valuation model for firms with illiquid but observable assets
+  authors: Juan Dong, Lyudmila Korobenko, Deniz Sezer
+  year: 2019
+  group: Stochastic processes
+  arxiv: "1910.08641"
+  journal: Quantitative Finance (2019)
+  doi: 10.1080/14697688.2019.1683220
+  pdf: /assets/pdfs/merton-bond.pdf
+
+- title: On evolutionary stability of carrying capacity driven dispersal in competition with regularly diffusing populations
+  authors: Lyudmila Korobenko, Elena Braverman
+  year: 2014
+  group: Population dynamics
+  journal: Journal of Mathematical Biology 69 (5) (2014), 1181–1206
+  pdf: /assets/pdfs/evolutionary-stability.pdf
+
+- title: Persistence and extinction in spatial models with carrying capacity driven diffusion and harvesting
+  authors: Lyudmila Korobenko, Md. Kamrujjaman, Elena Braverman
   year: 2013
-  arxiv: "1301.2339"
+  group: Population dynamics
+  journal: J. Math. Anal. Appl. 399 (1) (2013), 352–368
+  pdf: /assets/pdfs/harvesting.pdf
+
+- title: "On logistic models with a carrying capacity dependent diffusion: stability of equilibria and coexistence with a regularly diffusing population"
+  authors: Lyudmila Korobenko, Elena Braverman
+  year: 2012
+  group: Population dynamics
+  journal: "Nonlinear Analysis: Real World Applications 13 (6) (2012), 2648–2658"
+  pdf: /assets/pdfs/logistic-coexistence.pdf
+
+- title: On permanence and stability of a logistic model with harvesting and a carrying capacity dependent diffusion
+  authors: Lyudmila Korobenko, Elena Braverman
+  year: 2011
+  group: Population dynamics
+  journal: Journal of Nonlinear Systems and Applications 2 (1-2) (2011), 9–15
+  pdf: /assets/pdfs/permanence-harvesting.pdf
+
+- title: A logistic model with a carrying capacity driven diffusion
+  authors: Lyudmila Korobenko, Elena Braverman
+  year: 2009
+  group: Population dynamics
+  journal: Can. Appl. Math. Quart. 17 (2009), 85–100
+  pdf: /assets/pdfs/camq-logistic.pdf
+
+- title: Formulation and well-posedness of the Cauchy problem for a diffusion equation with discontinuous degenerating coefficients
+  authors: Lyudmila Korobenko, Vsevolod Zh. Sakbaev
+  year: 2009
+  group: Discontinuous heat equation
+  journal: Comput. Math. Math. Phys. 49 (6) (2009), 1037–1053
+  pdf: /assets/pdfs/diffusion-2009.pdf
+
+- title: On a description of a diffusion phenomena in discontinuous medium
+  authors: Lyudmila Korobenko
+  year: 2008
+  group: Discontinuous heat equation
+  journal: Some Problems of Fundamental and Applied Mathematics (2008), 34–49 [in Russian]
+  pdf: /assets/pdfs/diffusion-2008.pdf
+
+- title: Solution of the diffusion equation with discontinuous coefficient on a real line
+  authors: Lyudmila Korobenko, Vsevolod Zh. Sakbaev
+  year: 2006
+  group: Discontinuous heat equation
+  journal: Some Problems of Fundamental and Applied Mathematics (2006), 71–85 [in Russian]
+  pdf: /assets/pdfs/diffusion-2006.pdf
+
+- title: IMUS Lecture Notes on Harmonic Analysis, Metric Spaces and PDEs
+  authors: Lucas Chaffee, Taylor Dupuy, Rafael Espínola, Jarod Hart, Anna Kairema, Lyudmila Korobenko (eds.)
+  year: 2011
+  group: Other projects
+  journal: Seville 2011 lecture notes
+  pdf: /assets/pdfs/imus-lecture-notes.pdf
+
+- title: ODE analysis of a cancer pathway
+  authors: Matt Hennessy, Lyudmila Korobenko, Iain Moyles
+  year: 2010
+  group: Other projects
+  journal: Report, 9th Annual PIMS IPSW, University of Calgary
+  pdf: /assets/pdfs/cancer-pathway.pdf
+
+- title: Dynamics of a large ocean vessel
+  authors: Matt Hennessy, Lyudmila Korobenko, Iain Moyles
+  year: 2009
+  group: Other projects
+  journal: Report, 9th Annual PIMS GIMMIC, University of Calgary
+  pdf: /assets/pdfs/vessel-dynamics.pdf

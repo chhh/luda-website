@@ -151,6 +151,11 @@ a:hover { text-decoration-color: var(--accent); }
 
 .lead { font-size: 1.35rem; line-height: 1.5; }
 
+.portrait {
+  width: 7rem; height: 7rem; border-radius: 50%; object-fit: cover;
+  border: 1px solid var(--rule); margin-bottom: var(--s5); display: block;
+}
+
 .serif-italic { font-style: italic; }
 
 /* contact list */

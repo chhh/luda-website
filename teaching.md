@@ -81,8 +81,8 @@ title: Teaching
 <h2>Lecture notes</h2>
 
 <ul class="contact measure">
-  <li><span class="k">Math 112</span><span class="v"><a href="https://drive.google.com/open?id=1cLwM3iiK8-pk7009jKMd4ldLkqWKx2il">Intro to Analysis — lecture notes</a></span></li>
-  <li><span class="k">Math 321</span><span class="v"><a href="https://drive.google.com/open?id=1ijNbGCM9UDGqtR3Msz9NpqY2skbmrIwp">Real Analysis — lecture notes</a></span></li>
+  <li><span class="k">Math 112</span><span class="v"><a href="{{ '/assets/pdfs/112-notes.pdf' | relative_url }}">Intro to Analysis — lecture notes</a></span></li>
+  <li><span class="k">Math 321</span><span class="v"><a href="{{ '/assets/pdfs/321-notes.pdf' | relative_url }}">Real Analysis — lecture notes</a></span></li>
 </ul>
 
 <h2>Past courses</h2>

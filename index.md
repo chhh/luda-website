@@ -4,6 +4,8 @@ title: Home
 ---
 
 <div class="measure">
+  <img class="portrait" src="{{ '/assets/img/luda.jpg' | relative_url }}" alt="Luda Korobenko">
+
   <p class="eyebrow">Associate Professor of Mathematics · Reed College</p>
 
   <h1>Luda Korobenko</h1>
@@ -25,7 +27,7 @@ title: Home
   <div class="quicklinks">
     <a href="{{ '/publications/' | relative_url }}">Publications</a>
     <a href="{{ '/teaching/' | relative_url }}">Teaching</a>
-    <a href="{{ '/cv/' | relative_url }}">Curriculum Vitae</a>
+    <a href="{{ '/assets/pdfs/cv.pdf' | relative_url }}" target="_blank" rel="noopener">Curriculum Vitae</a>
   </div>
 </div>
 

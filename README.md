@@ -18,10 +18,12 @@ Static site for GitHub Pages (Jekyll, no build step).
 - title: "My new paper"
   authors: "Lyudmila Korobenko, Jane Doe"
   year: 2026
-  journal: "Journal of Functional Analysis"   # optional
-  arxiv: "2601.00000"                         # optional
-  pdf: "/assets/pdfs/my-paper.pdf"            # optional
-  abstract: "Optional abstract shown behind a toggle."
+  group: "Degenerate elliptic PDEs"   # or a new section name
+  journal: "J. Funct. Anal."           # optional
+  arxiv: "2601.00000"                  # optional
+  doi: "10.xxxx/..."                   # optional
+  pdf: "/assets/pdfs/my-paper.pdf"     # optional
+  abstract: "Optional abstract."
 ```
 
 Sorted newest first. Commit + push → live.
