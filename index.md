@@ -4,8 +4,6 @@ title: Home
 ---
 
 <div class="measure">
-  <img class="portrait" src="{{ '/assets/img/luda.jpg' | relative_url }}" alt="Luda Korobenko">
-
   <p class="eyebrow">Associate Professor of Mathematics · Reed College</p>
 
   <h1>Luda Korobenko</h1>
