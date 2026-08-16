@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title and page.title != "Home" %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ site.description | strip_newlines }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+
+  <header class="site-header">
+    <a class="site-title" href="{{ '/' | relative_url }}">Luda Korobenko<span class="mark">.</span></a>
+    <nav aria-label="Main">
+      <a href="{{ '/' | relative_url }}" {% if page.url == "/" %}class="active"{% endif %}>Home</a>
+      <a href="{{ '/publications/' | relative_url }}" {% if page.url contains "publications" %}class="active"{% endif %}>Publications</a>
+      <a href="{{ '/teaching/' | relative_url }}" {% if page.url contains "teaching" %}class="active"{% endif %}>Teaching</a>
+      <a href="{{ '/cv/' | relative_url }}" {% if page.url contains "cv" %}class="active"{% endif %}>CV</a>
+    </nav>
+  </header>
+
+  <main id="main">
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <span>Department of Mathematics &amp; Statistics · Reed College · Library 315</span>
+    <span class="mono"><a href="mailto:{{ site.email }}">{{ site.email }}</a></span>
+  </footer>
+</body>
+</html>

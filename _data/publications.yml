@@ -1,0 +1,117 @@
+# Publications — edit this file to add/remove papers.
+#
+# Fields:
+#   title     (required) paper title
+#   authors   (required) full author list, "Lyudmila Korobenko" gets bolded
+#   year      (required)
+#   arxiv     (optional) arXiv id, e.g. "2501.11766" -> links to arxiv.org/abs/...
+#   journal   (optional) e.g. "Journal of Functional Analysis"
+#   pdf       (optional) local path, e.g. "/assets/pdfs/paper.pdf" (drop file there)
+#   abstract  (optional) shown behind a toggle
+#
+# Sorted newest first.
+
+- title: On the Necessity of Logarithmic Estimates for Hypoellipticity
+  authors: Timur Akhunov, Lyudmila Korobenko
+  year: 2025
+  arxiv: "2605.15070"
+
+- title: Degenerate elliptic equations with Φ-admissible weights
+  authors: Lyudmila Korobenko
+  year: 2025
+  arxiv: "2501.11766"
+
+- title: Carnot-Carathéodory metrics associated to degenerate elliptic operators in three dimensions
+  authors: Lyudmila Korobenko, Florian Meister, Olive Ross
+  year: 2024
+  arxiv: "2412.05810"
+
+- title: Weighted 1-dimensional Orlicz-Poincaré inequalities
+  authors: Lyudmila Korobenko, Olly Milshstein, Lucas Yong
+  year: 2023
+  arxiv: "2304.04373"
+
+- title: The Moser method and boundedness of solutions to infinitely degenerate elliptic equations
+  authors: Lyudmila Korobenko, Cristian Rios, Eric Sawyer, Ruipeng Shen
+  year: 2023
+  arxiv: "2303.02873"
+
+- title: Necessity of a logarithmic estimate for hypoellipticity of some degenerately elliptic operators
+  authors: Timur Akhunov, Lyudmila Korobenko
+  year: 2022
+  arxiv: "2212.01727"
+
+- title: "Sums of squares I: scalar functions"
+  authors: Lyudmila Korobenko, Eric T. Sawyer
+  year: 2021
+  arxiv: "2107.12840"
+
+- title: "Sums of squares II: matrix functions"
+  authors: Lyudmila Korobenko, Eric T. Sawyer
+  year: 2021
+  arxiv: "2107.12505"
+
+- title: "Sums of squares III: hypoellipticity in the infinitely degenerate regime"
+  authors: Lyudmila Korobenko, Eric T. Sawyer
+  year: 2021
+  arxiv: "2107.12451"
+
+- title: Orlicz-Sobolev inequalities and the Dirichlet problem for infinitely degenerate elliptic operators
+  authors: Usman Hafeez, Théo Lavier, Lucas Williams, Lyudmila Korobenko
+  year: 2020
+  arxiv: "2008.08263"
+
+- title: Continuity of infinitely degenerate weak solutions via the trace method
+  authors: Lyudmila Korobenko, Eric T. Sawyer
+  year: 2020
+  arxiv: "2007.04878"
+
+- title: Nonhedgeable risk and Credit Risk Pricing
+  authors: Juan Dong, Lyudmila Korobenko, Deniz Sezer
+  year: 2019
+  arxiv: "1910.08641"
+
+- title: Orlicz Sobolev Inequalities and the Doubling Condition
+  authors: Lyudmila Korobenko
+  year: 2019
+  arxiv: "1906.04088"
+
+- title: Hypoellipticity without loss of derivatives for Fedii's type operators
+  authors: Timur Akhunov, Lyudmila Korobenko, Cristian Rios
+  year: 2017
+  arxiv: "1711.00161"
+
+- title: Continuity of weak solutions to rough infinitely degenerate equations
+  authors: Lyudmila Korobenko, Cristian Rios, Eric Sawyer, Ruipeng Shen
+  year: 2017
+  arxiv: "1703.00774"
+
+- title: Sharp local boundedness and maximum principle in the infinitely degenerate regime via DeGiorgi iteration
+  authors: Lyudmila Korobenko, Cristian Rios, Eric Sawyer, Ruipeng Shen
+  year: 2016
+  arxiv: "1608.01630"
+
+- title: Local boundedness, maximum principles, and continuity of solutions to infinitely degenerate elliptic equations
+  authors: Lyudmila Korobenko, Cristian Rios, Eric Sawyer, Ruipeng Shen
+  year: 2015
+  arxiv: "1506.09203"
+
+- title: Regularity of Solutions to Degenerate Non-Doubling Second Order Equations
+  authors: Lyudmila Korobenko, Cristian Rios
+  year: 2014
+  arxiv: "1401.8047"
+
+- title: From Sobolev Inequality to Doubling
+  authors: Lyudmila Korobenko, Diego Maldonado, Cristian Rios
+  year: 2013
+  arxiv: "1312.0277"
+
+- title: Regularity of solutions to quasilinear infinitely degenerate second order equations
+  authors: Lyudmila Korobenko, Cristian Rios
+  year: 2013
+  arxiv: "1304.5234"
+
+- title: Hypoellipticity of a Class of Infinitely Degenerate Second Order Operators and Systems
+  authors: Lyudmila Korobenko, Cristian Rios
+  year: 2013
+  arxiv: "1301.2339"
