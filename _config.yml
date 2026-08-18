@@ -1,8 +1,10 @@
 title: Luda Korobenko
 email: korobenko@reed.edu
 description: >
-  Associate Professor of Mathematics at Reed College.
-  Research in PDEs, functional analysis, harmonic analysis,
-  and metric measure spaces.
+  Lyudmila (Luda) Korobenko, Associate Professor of Mathematics at Reed College.
+  Research on elliptic equations, degenerate elliptic operators, functional
+  analysis, harmonic analysis, and metric measure spaces.
 url: "https://mathetal.com"
 baseurl: ""
+plugins:
+  - jekyll-sitemap

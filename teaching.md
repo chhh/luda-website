@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Teaching
+title: "Teaching — Luda Korobenko"
+description: "Courses taught by Luda Korobenko at Reed College: real analysis, functional analysis, PDEs, complex analysis, calculus, and differential equations."
 permalink: /teaching/
 ---
 

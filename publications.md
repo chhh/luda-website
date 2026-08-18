@@ -1,11 +1,16 @@
 ---
 layout: default
-title: Publications
+title: "Publications — Luda Korobenko"
+description: "Published papers by Lyudmila (Luda) Korobenko on degenerate elliptic equations, hypoellipticity, Sobolev and Orlicz–Sobolev inequalities, and harmonic analysis."
 permalink: /publications/
 ---
 
 <p class="eyebrow">Research</p>
 <h1>Publications</h1>
+
+<div class="quicklinks">
+  <a href="https://arxiv.org/search/?searchtype=author&query=Korobenko%2C+L">arXiv author search</a>
+</div>
 
 {% assign pubs = site.data.publications %}
 {% assign current_group = "" %}

@@ -1,18 +1,19 @@
 ---
 layout: default
-title: Home
+title: "Luda Korobenko — Associate Professor of Mathematics, Reed College"
+description: "Lyudmila (Luda) Korobenko, Associate Professor of Mathematics at Reed College. Research on elliptic equations, degenerate elliptic operators, functional analysis, harmonic analysis, and metric measure spaces."
 ---
 
 <div class="measure">
   <p class="eyebrow"><a href="https://www.reed.edu/faculty-profiles/profiles/korobenko-lyudmila.html">Associate Professor of Mathematics</a> · <a href="https://www.reed.edu/">Reed College</a></p>
 
-  <h1>Luda Korobenko</h1>
+  <h1>Lyudmila (Luda) Korobenko</h1>
 
   <p class="lead">
-    I work on partial differential equations, functional analysis,
-    harmonic analysis, and analysis on metric measure spaces — in
-    particular the regularity theory of <em>degenerate</em> elliptic
-    operators.
+    I work on partial differential equations — in particular the
+    regularity theory of degenerate <em>elliptic equations</em> and
+    operators — along with functional analysis, harmonic analysis, and
+    analysis on metric measure spaces.
   </p>
 
   <div class="tags">
