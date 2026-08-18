@@ -7,13 +7,14 @@ description: "Lyudmila (Luda) Korobenko, Associate Professor of Mathematics at R
 <div class="measure">
   <p class="eyebrow"><a href="https://www.reed.edu/faculty-profiles/profiles/korobenko-lyudmila.html">Associate Professor of Mathematics</a> · <a href="https://www.reed.edu/">Reed College</a></p>
 
-  <h1>Lyudmila (Luda) Korobenko</h1>
+  <h1>Luda Korobenko</h1>
 
   <p class="lead">
-    I work on partial differential equations — in particular the
-    regularity theory of degenerate <em>elliptic equations</em> and
-    operators — along with functional analysis, harmonic analysis, and
-    analysis on metric measure spaces.
+    I am Lyudmila Korobenko, but I go by Luda. I work on partial
+    differential equations — in particular the regularity theory of
+    degenerate <em>elliptic equations</em> and operators — along with
+    functional analysis, harmonic analysis, and analysis on metric
+    measure spaces.
   </p>
 
   <div class="tags">
