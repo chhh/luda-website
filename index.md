@@ -4,7 +4,7 @@ title: Home
 ---
 
 <div class="measure">
-  <p class="eyebrow">Associate Professor of Mathematics · Reed College</p>
+  <p class="eyebrow"><a href="https://www.reed.edu/faculty-profiles/profiles/korobenko-lyudmila.html">Associate Professor of Mathematics</a> · <a href="https://www.reed.edu/">Reed College</a></p>
 
   <h1>Luda Korobenko</h1>
 
