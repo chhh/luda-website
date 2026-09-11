@@ -18,6 +18,7 @@
   year: 2025
   group: Functional analysis
   arxiv: "2412.05810"
+  journal: Ann. Func. Anal. 17, No. 2 (2026), 1-28
 
 - title: Weighted 1-dimensional Orlicz-Poincaré inequalities
   authors: Lyudmila Korobenko, Olly Milshtein, Lucas Yong
@@ -47,12 +48,14 @@
   year: 2026
   group: Degenerate elliptic PDEs
   arxiv: "2605.15070"
+  journal: submitted
 
 - title: Degenerate elliptic equations with Φ-admissible weights
   authors: Lyudmila Korobenko
   year: 2025
   group: Degenerate elliptic PDEs
   arxiv: "2501.11766"
+  journal: to appear in J. Anal. Math.
 
 - title: "Regularity for infinitely degenerate inhomogeneous elliptic equations, part I: the Moser method"
   authors: Lyudmila Korobenko, Cristian Rios, Eric Sawyer, Ruipeng Shen
@@ -73,7 +76,7 @@
   year: 2023
   group: Degenerate elliptic PDEs
   arxiv: "2107.12451"
-  journal: submitted
+  journal: Linear Algebra Appl. 664 (2023), 264-313
   pdf: /assets/pdfs/sos-3.pdf
 
 - title: "Sums of squares II: matrix functions"
