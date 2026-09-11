@@ -10,9 +10,9 @@ description: "Lyudmila (Luda) Korobenko, Associate Professor of Mathematics at R
   <h1>Luda Korobenko</h1>
 
   <p class="lead">
-    I am Lyudmila Korobenko, but I go by Luda. I work on partial
-    differential equations — in particular the regularity theory of
-    degenerate <em>elliptic equations</em> and operators — along with
+   If you are looking for Lyudmila Korobenko, that's me, but I usually go by Luda. I work in the area of real analysis and partial
+    differential equations. I am particularly interested in the regularity theory of
+    degenerate <em>elliptic operators</em> and areas that provide most of the analytic tools for studying them:
     functional analysis, harmonic analysis, and analysis on metric
     measure spaces.
   </p>
