@@ -34,6 +34,8 @@ Sorted newest first. Commit + push → live.
 jekyll serve        # http://localhost:4000/luda-website/
 ```
 
+`Ctrl+C` to stop.
+
 Requires Ruby + Jekyll. On macOS with Homebrew:
 
 ```bash
@@ -43,6 +45,12 @@ export PATH="$(brew --prefix ruby)/bin:$(gem env gemdir)/bin:$PATH"
 ```
 
 Add that `export` to your `~/.zshrc` to make it permanent.
+
+### Stop a running server
+
+```bash
+lsof -ti :4000 | xargs kill     # kill whatever's on port 4000
+```
 
 ## Deploy
 
