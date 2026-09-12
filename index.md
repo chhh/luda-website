@@ -4,11 +4,14 @@ title: "Luda Korobenko — Associate Professor of Mathematics, Reed College"
 description: "Lyudmila (Luda) Korobenko, Associate Professor of Mathematics at Reed College. Research on elliptic equations, degenerate elliptic operators, functional analysis, harmonic analysis, and metric measure spaces."
 ---
 
-<div class="measure">
-  <p class="eyebrow"><a href="https://www.reed.edu/faculty-profiles/profiles/korobenko-lyudmila.html">Associate Professor of Mathematics</a> · <a href="https://www.reed.edu/">Reed College</a></p>
+<p class="eyebrow"><a href="https://www.reed.edu/faculty-profiles/profiles/korobenko-lyudmila.html">Associate Professor of Mathematics</a> · <a href="https://www.reed.edu/">Reed College</a></p>
 
-  <h1>Luda Korobenko</h1>
+<h1>Luda Korobenko</h1>
 
+<hr class="divider">
+
+<div class="intro">
+  <div class="intro-text measure">
   <p class="lead">
    If you are looking for Lyudmila Korobenko, that's me, but I usually go by Luda. I work in the area of real analysis and partial
     differential equations. I am particularly interested in the regularity theory of
@@ -29,6 +32,9 @@ description: "Lyudmila (Luda) Korobenko, Associate Professor of Mathematics at R
     <a href="{{ '/teaching/' | relative_url }}">Teaching</a>
     <a href="{{ '/assets/pdfs/cv.pdf' | relative_url }}" target="_blank" rel="noopener">Curriculum Vitae</a>
   </div>
+  </div>
+
+  <img class="book" src="{{ '/assets/img/book-v04.png' | relative_url }}" alt="Book cover">
 </div>
 
 <h2>Contact</h2>

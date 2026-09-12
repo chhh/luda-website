@@ -89,6 +89,25 @@ main {
 
 .measure { max-width: var(--measure); }
 
+.divider {
+  border: none;
+  border-top: 1px solid var(--rule);
+  margin: var(--s5) 0;
+}
+
+/* intro: two-column on desktop, stacked on narrow screens */
+.intro {
+  display: flex;
+  gap: var(--s7);
+  align-items: flex-start;
+}
+.intro-text { flex: 1 1 auto; min-width: 0; }
+.book {
+  flex: 0 0 15rem;
+  width: 15rem;
+  max-width: 100%;
+}
+
 /* eyebrow label */
 .eyebrow {
   font-family: var(--mono);
@@ -238,6 +257,10 @@ summary.abstract-toggle:hover { text-decoration: underline; }
 .site-footer a { color: var(--muted); text-decoration: none; }
 .site-footer a:hover { color: var(--accent); }
 .site-footer .mono { font-family: var(--mono); font-size: .72rem; letter-spacing: var(--tracking); text-transform: uppercase; }
+
+@media (max-width: 56rem) {
+  .book { display: none; }
+}
 
 @media (max-width: 40rem) {
   body { font-size: 1.05rem; }
