@@ -6,8 +6,6 @@ description: "Lyudmila (Luda) Korobenko, Associate Professor of Mathematics at R
 
 <p class="eyebrow"><a href="https://www.reed.edu/faculty-profiles/profiles/korobenko-lyudmila.html">Associate Professor of Mathematics</a> · <a href="https://www.reed.edu/">Reed College</a></p>
 
-<h1>Luda Korobenko</h1>
-
 <hr class="divider">
 
 <div class="intro">
