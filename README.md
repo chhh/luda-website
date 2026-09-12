@@ -34,6 +34,12 @@ Sorted newest first. Commit + push → live.
 jekyll serve        # http://localhost:4000/luda-website/
 ```
 
+To automatically reload browser page when website source changes:
+
+```bash
+jekyll serve --livereload
+```
+
 `Ctrl+C` to stop.
 
 Requires Ruby + Jekyll. On macOS with Homebrew:
@@ -50,6 +56,12 @@ Add that `export` to your `~/.zshrc` to make it permanent.
 
 ```bash
 lsof -ti :4000 | xargs kill     # kill whatever's on port 4000
+```
+
+or
+
+```bash
+pkill -f "jekyll serve"
 ```
 
 ## Deploy
