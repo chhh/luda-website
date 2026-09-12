@@ -18,10 +18,10 @@ description: "Lyudmila (Luda) Korobenko, Associate Professor of Mathematics at R
   </p>
 
   <div class="tags">
-    <span class="tag">PDEs</span>
-    <span class="tag">Functional Analysis</span>
-    <span class="tag">Harmonic Analysis</span>
-    <span class="tag">Metric Measure Spaces</span>
+    <a class="tag" href="{{ '/publications/' | relative_url }}?tag=PDEs">PDEs</a>
+    <a class="tag" href="{{ '/publications/' | relative_url }}?tag=Functional+Analysis">Functional Analysis</a>
+    <a class="tag" href="{{ '/publications/' | relative_url }}?tag=Harmonic+Analysis">Harmonic Analysis</a>
+    <a class="tag" href="{{ '/publications/' | relative_url }}?tag=Metric+Measure+Spaces">Metric Measure Spaces</a>
   </div>
 
   <div class="quicklinks">
