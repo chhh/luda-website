@@ -21,19 +21,19 @@
   arxiv: "2605.15070"
   journal: submitted
   tags: [PDEs]
+  
+  - title: Degenerate elliptic equations with Φ-admissible weights
+  authors: Lyudmila Korobenko
+  year: 2026
+  arxiv: "2501.11766"
+  journal: to appear in J. Anal. Math.
+  tags: [PDEs, "Metric Measure Spaces"]
 
 - title: Carnot-Carathéodory metrics associated to degenerate elliptic operators in three dimensions
   authors: Florian Meister, Olive Ross, Lyudmila Korobenko
-  year: 2025
+  year: 2026
   arxiv: "2412.05810"
   journal: Ann. Func. Anal. 17, No. 2 (2026), 1-28
-  tags: [PDEs, "Metric Measure Spaces"]
-
-- title: Degenerate elliptic equations with Φ-admissible weights
-  authors: Lyudmila Korobenko
-  year: 2025
-  arxiv: "2501.11766"
-  journal: to appear in J. Anal. Math.
   tags: [PDEs, "Metric Measure Spaces"]
 
 - title: "Regularity for infinitely degenerate inhomogeneous elliptic equations, part I: the Moser method"
@@ -136,14 +136,6 @@
   journal: J. Pseudo-Differ. Oper. Appl. 10 (3) (2019), 649–688
   tags: [PDEs]
 
-- title: Local boundedness, maximum principles, and continuity of solutions to infinitely degenerate elliptic equations
-  authors: Lyudmila Korobenko, Cristian Rios, Eric Sawyer, Ruipeng Shen
-  year: 2015
-  arxiv: "1506.09203"
-  journal: preprint
-  pdf: /assets/pdfs/local-boundedness.pdf
-  tags: [PDEs]
-
 - title: Hypoellipticity of certain infinitely degenerate second order operators
   authors: Lyudmila Korobenko, Cristian Rios
   year: 2014
@@ -151,13 +143,6 @@
   journal: J. Math. Anal. Appl. 409 (1) (2014), 41–55
   pdf: /assets/pdfs/hypoellipticity-2014.pdf
   tags: [PDEs]
-
-- title: Regularity of solutions to degenerate non-doubling second order equations
-  authors: Lyudmila Korobenko, Cristian Rios
-  year: 2014
-  arxiv: "1401.8047"
-  pdf: /assets/pdfs/non-doubling.pdf
-  tags: [PDEs, "Metric Measure Spaces"]
 
 - title: On evolutionary stability of carrying capacity driven dispersal in competition with regularly diffusing populations
   authors: Lyudmila Korobenko, Elena Braverman
@@ -171,7 +156,7 @@
   journal: J. Math. Anal. Appl. 399 (1) (2013), 352–368
   pdf: /assets/pdfs/harvesting.pdf
 
-- title: "On logistic models with a carrying capacity dependent diffusion: stability of equilibria and coexistence with a regularly diffusing population"
+- title: On logistic models with a carrying capacity dependent diffusion: stability of equilibria and coexistence with a regularly diffusing population
   authors: Lyudmila Korobenko, Elena Braverman
   year: 2012
   journal: "Nonlinear Analysis: Real World Applications 13 (6) (2012), 2648–2658"
